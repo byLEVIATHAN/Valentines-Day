@@ -34,19 +34,19 @@ export default function Page() {
   };
 
   return (
-    <div className="centered-container">      
+    <div className="centered-container">
       <div className="valentine-container">
         {yesPressed ? (
           <>
-            <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-            <div className="text-container">Ok yay!!!</div>
+            <img src="https://media1.tenor.com/m/gun0sHc3R28AAAAC/shanelle-hello-kitty.gif" />
+            <div className="text-container">YAY!!! ❤❤❤</div>
           </>
         ) : (
           <>
             <img
               className="h-[200px]"
               style={{ width: "400x", height: "240px" }}
-              src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+              src="https://media1.tenor.com/m/Btm1Qk1VR4wAAAAC/kitty-cute.gif"
             />
             <h1 className="text-container">Will you be my Valentine?</h1>
             <div>
